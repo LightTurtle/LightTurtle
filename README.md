@@ -7,7 +7,7 @@
 🎯 **Passionate about** building technology solutions that solve real-world business problems
 
 ## What I'm Working On
-- 🧠 **AI Research**: Developing transformer-based models for text classification and bias detection
+- 🧠 **AI Research**: Developing transformer-based models for detecting paraphrased AI generated academic abstracts
 - 🏥 **Medical Innovation**: Leading technical development of phantom limb pain treatment device
 - 📊 **Enterprise Systems**: Built production PHP benchmarking tools deployed on Kubernetes
 - 🚀 **Learning**: Expanding full-stack development skills and exploring product management
