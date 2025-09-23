@@ -24,7 +24,7 @@ Device Competition
 
 ## Let's Connect!
 📄 [View My Resume](Andrew_Truong_Resume.pdf)
-📧 andrew.truong.2019@protonmail.com  
+📧 [Email](andrew.truong.2019@protonmail.com)  
 🌟 Open to opportunities in **Product Management**, **Leadership Development Programs**, and **AI Research**.
 
 ---
