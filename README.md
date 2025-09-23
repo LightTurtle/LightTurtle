@@ -6,26 +6,25 @@
 🏗️ **Co-Founder** of PhantomMend (medical device startup)  
 🎯 **Passionate about** building technology solutions that solve real-world business problems
 
-## What I'm Working On
-- 🧠 **AI Research**: Developing transformer-based models for detecting paraphrased AI generated academic abstracts
-- 🏥 **Medical Innovation**: Leading technical development of phantom limb pain treatment device
-- 📊 **Enterprise Systems**: Built production PHP benchmarking tools deployed on Kubernetes
-- 🚀 **Learning**: Expanding full-stack development skills and exploring product management
+## Featured Experience & Projects
+- 🔬 **AI Research**: Analyzed a 4,000-sample dataset to identify a universal structural template in AI-generated academic content as a researcher in Tokyo.
+- 🏥 **Medical Device Innovation**: Co-founded PhantomMend and directed a 5-engineer team to a 3rd place national finish for a medical device challenging a $15k annual treatment.
+- 📊 **Enterprise Systems**: Developed and deployed a performance monitoring solution in a Docker/Kubernetes environment at Paycom, providing key data for VMware contract negotiations.
+- ⚡ **Hardware Design**: Designed, simulated, and built a wearable heart rate monitor using analog circuitry and infrared PPG sensing.
 
 ## Technical Skills
-**Languages**: Python, Java, C++, PHP, HTML, CSS, JavaScript (Learning)  
-**ML/AI**: TensorFlow, PyTorch, Transformer Models (BERT, GPT), NLP  
-**Infrastructure**: Kubernetes, Docker, AWS, Linux  
-**Tools**: Git, Splunk, Prometheus, Grafana, MATLAB
+**Product**: Product Strategy, Market Validation, User Research, Agile Methodologies, Compliance
+**Technical**: Python, Java, C++, PHP, SQL, Git, Machine Learning (TensorFlow, PyTorch), Data Visualization (Grafana), Circuit Simulation (MultiSim), Splunk, Prometheus, Docker, Kubernetes
 
 ## Recent Achievements
-🏆 **3rd Place** - National Make a Medical Device Competition  
+🏆 **3rd Place** - National Make a Medical
+Device Competition  
 🦅 **Eagle Scout** - Led community impact project with 15+ volunteers  
-📜 **Patent Application** - Medical device innovation in progress
+📜 **Provisional Patent Contribution** - Contributed key technical software descriptions for a successful provisional patent application.
 
 ## Let's Connect!
 📧 andrew.truong.2019@protonmail.com  
-🌟 Open to opportunities in **Business Engineering**, **Product Management**, and **AI Research**
+🌟 Open to opportunities in **Product Management**, **Leadership Development Programs**, and **AI Research**.
 
 ---
 *"At the intersection of business and technology, building solutions that matter."*
