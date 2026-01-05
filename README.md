@@ -1,7 +1,7 @@
 # Hi, I'm Andrew 👋
 
 ## About Me
-🎓 **Computer Engineering student** at University of Oklahoma (Dean's List 6 semesters)  
+🎓 **Computer Engineering Alumni** at University of Oklahoma (Dean's List 6 semesters)  
 🔬 **AI Researcher** at University of Electro Communications, Tokyo  
 🏗️ **Co-Founder** of PhantomMend (medical device startup)  
 🎯 **Passionate about** building technology solutions that solve real-world business problems
