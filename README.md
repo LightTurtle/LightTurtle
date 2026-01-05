@@ -1,16 +1,16 @@
 # Hi, I'm Andrew 👋
 
 ## About Me
-🎓 **Computer Engineering Alumni** at University of Oklahoma (Dean's List 6 semesters)  
-🔬 **AI Researcher** at University of Electro Communications, Tokyo  
-🏗️ **Co-Founder** of PhantomMend (medical device startup)  
-🎯 **Passionate about** building technology solutions that solve real-world business problems
+🎓 **Recent Computer Engineering Graduate** from University of Oklahoma (Dean's List 6 semesters, Dec 2025)  
+🚀 **Technical Product Manager** with proven leadership of cross-functional engineering teams  
+🏗️ **Co-Founder & Product Lead** at PhantomMend (medical device startup)  
+🎯 **Building** data-driven products at the intersection of technical depth and user impact
 
 ## Featured Experience & Projects
-- 🔬 **AI Research**: Analyzed a 4,000-sample dataset to identify a universal structural template in AI-generated academic content as a researcher in Tokyo.
-- 🏥 **Medical Device Innovation**: Co-founded PhantomMend and directed a 5-engineer team to a 3rd place national finish for a medical device challenging a $15k annual treatment.
-- 📊 **Enterprise Systems**: Developed and deployed a performance monitoring solution in a Docker/Kubernetes environment at Paycom, providing key data for VMware contract negotiations.
-- ⚡ **Hardware Design**: Designed, simulated, and built a wearable heart rate monitor using analog circuitry and infrared PPG sensing.
+- 🏥 **Product Leadership**: Led 5-engineer team to 3rd place nationally, validated product-market fit through 25+ user interviews, drove strategic pivot that reduced solution cost from $15k to $150
+- 📊 **Capstone PM**: Led 4-person team analyzing 50M+ data points for Ookla, delivered 3 prioritized connectivity recommendations incorporating infrastructure constraints and stakeholder feedback
+- 🔬 **AI Research**: Conducted research at University of Electro Communications in Tokyo, analyzing 4,000-sample dataset to identify structural patterns in AI-generated content
+- ⚙️ **Enterprise Systems**: Built performance monitoring solution at Paycom that influenced VMware contract negotiations through data-driven analysis presented to senior leadership
 
 ## Technical Skills
 **Product**: Product Strategy, Market Validation, User Research, Agile Methodologies, Compliance
@@ -25,8 +25,8 @@ Device Competition
 ## Let's Connect!
 📄 [View My Resume](Andrew_Truong_Resume.pdf)  
 📧 andrew.truong.2019@protonmail.com  
-🌟 Open to opportunities in **Product Management**, **Leadership Development Programs**, and **AI Research**.
+🌟 **Seeking Technical Product Manager roles** where I can leverage engineering depth to drive product strategy and lead cross-functional teams.
 
 ---
-*"At the intersection of business and technology, building solutions that matter."*
+*"Technical PM who bridges engineering execution and product strategy to build solutions that matter."*
 
