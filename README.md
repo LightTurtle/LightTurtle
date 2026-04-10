@@ -23,7 +23,7 @@ Device Competition
 📜 **Provisional Patent Contribution** - Contributed key technical software descriptions for a successful provisional patent application.
 
 ## Let's Connect!
-📄 [View My Resume](ANDREW TRUONG Hardware Resume (1).pdf)  
+📄 [View My Resume](ANDREWTRUONGHardwareResume(1).pdf)  
 📧 andrew.truong.2019@protonmail.com  
 🌟 **Seeking Technical Product Manager roles** where I can leverage engineering depth to drive product strategy and lead cross-functional teams.
 
