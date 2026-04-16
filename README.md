@@ -37,7 +37,9 @@ Full analog signal chain designed from schematic to working prototype
 ## Let's Connect!
 📄 [View My Resume](https://github.com/LightTurtle/LightTurtle/blob/main/ANDREW%20TRUONG%20Hardware%20Resume%20(1).pdf)  
 📧 andrew.truong.2019@protonmail.com  
-🌟 **Seeking Technical Product Manager roles** where I can leverage engineering depth to drive product strategy and lead cross-functional teams.
+
+*Seeking embedded firmware or hardware design roles in defense, aerospace, or hardware-focused startups.*
+
 
 
 
