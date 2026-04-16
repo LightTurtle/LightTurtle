@@ -39,6 +39,5 @@ Full analog signal chain designed from schematic to working prototype
 📧 andrew.truong.2019@protonmail.com  
 🌟 **Seeking Technical Product Manager roles** where I can leverage engineering depth to drive product strategy and lead cross-functional teams.
 
----
-*"Technical PM who bridges engineering execution and product strategy to build solutions that matter."*
+
 
