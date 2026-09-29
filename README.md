@@ -31,7 +31,9 @@ as a poster.
 ## Skills
 
 **Signal processing & data:** DSP, analog filtering, Python (NumPy, pandas, scikit-learn), MATLAB
+
 **Embedded:** STM32, bare-metal C, I²C, SPI, UART, PWM, ADC, timers, interrupts
+
 **Hardware & test:** op-amp circuits, PCB design (Eagle), Multisim, NI TestStand, oscilloscopes, DMMs
 
 ## Contact
