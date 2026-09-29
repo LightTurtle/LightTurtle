@@ -1,45 +1,38 @@
-# Hi, I'm Andrew 👋
+# Hi, I'm Andrew
 
-## About Me
-🎓 **Computer Engineering Graduate** — University of Oklahoma, Dec 2025 (GPA 3.6, Dean's List 6 semesters)  
-⚙️ **Embedded Firmware & Hardware Engineer** — bare-metal C, analog circuit design, PCB fabrication  
-🛡️ **U.S. Citizen** eligible to obtain DoD security clearance  
-📍 Oklahoma City, OK — open to relocation
+Electrical engineer in Tucson, AZ, working in production test engineering.
+My background is computer engineering: embedded systems, analog signal chains
+and data processing. I'm building toward **sensor fusion, signal processing and
+machine learning**.
 
-## Featured Projects
+- 🎓 B.S. Computer Engineering, University of Oklahoma (2025)
+- 🔬 Currently studying automatic target recognition and data fusion
+- 📍 Tucson, AZ
 
-### 🔧 Portable Digital Lab Tool (STM32G031)
-3-in-1 lab instrument: digitally-controlled power supply (0–3.3V), ohmmeter, and function generator (10Hz–50kHz)
-- Zero external libraries — full bare-metal C firmware with direct register-level peripheral configuration
-- I2C peripheral system controlling dual MCP23017 I/O expanders driving four 7-segment displays and 4x4 keypad (32 pins → 2 wires)
-- Debugged current limiting failure after burning out four displays — resolved with 150Ω resistors, validated with oscilloscope
+## Featured projects
 
-### 💓 Optical Heart Rate Monitor (PPG Biosensor)
-Full analog signal chain designed from schematic to working prototype
-- 3-stage chain: transimpedance amplifier → active low-pass filter (fc ≈ 2.34 Hz) → secondary amplifier (5.55 V/V)
-- RC integrator (τ = 68ms) + comparator network for automatic heart rate zone classification (60/120/180 BPM)
-- Simulated in Multisim achieving 99.78% annual reliability — validated against commercial fitness trackers
+### 🔧 [Portable Digital Lab Tool](https://github.com/LightTurtle/Portable-Digital-Lab-Tool) · C, STM32
+A 3-in-1 instrument (power supply, ohmmeter, 10 Hz–50 kHz function generator)
+on an STM32G031, written in bare-metal C with no external libraries.
+I²C display and keypad over dual MCP23017 expanders.
 
-## Technical Skills
+### 💓 [Heart Rate Zone Monitor](https://github.com/LightTurtle/Heart-Rate-Zone-Monitor) · analog signal processing
+An infrared PPG sensor with a 3-stage analog chain (transimpedance amplifier,
+active low-pass filter, gain stage) and comparator-based heart-rate zone
+classification. Simulated in Multisim, then built and tested on a breadboard.
 
-**Embedded Systems:** STM32, bare-metal C, I2C, SPI, UART, PWM, ADC, GPIO, hardware timers, interrupt-driven systems, register-level programming
+## Research
 
-**Hardware Design:** Analog circuit design, op-amps, active filters, transimpedance amplifiers, comparators, PCB design (Eagle CAD, 2-layer), signal conditioning, oscilloscope, logic analyzer, multimeter
+**AI-generated text detection**, University of Electro-Communications, Tokyo (2025).
+Proposed a dataset of paraphrased and hand-edited AI-generated academic abstracts
+for testing detection methods, built the first samples, and presented the work
+as a poster.
 
-**Programming:** C, C++, Python (NumPy, pandas, scikit-learn), MATLAB, Git
+## Skills
 
-## Experience Highlights
-- 🔬 **ML Research Assistant** — University of Electro-Communications, Tokyo (2025)
-- 🏥 **Wearable Health Research** — OU smartwatch health monitoring system (2025)
-- 🏆 **3rd Place** — National Make a Medical Device Competition (PhantomMend)
-- 🦅 **Eagle Scout**
+**Signal processing & data:** DSP, analog filtering, Python (NumPy, pandas, scikit-learn), MATLAB
+**Embedded:** STM32, bare-metal C, I²C, SPI, UART, PWM, ADC, timers, interrupts
+**Hardware & test:** op-amp circuits, PCB design (Eagle), Multisim, NI TestStand, oscilloscopes, DMMs
 
-## Let's Connect!
-📄 [View My Resume](https://github.com/LightTurtle/LightTurtle/blob/main/ANDREW%20TRUONG%20Hardware%20Resume%20(1).pdf)  
-📧 andrew.truong.2019@protonmail.com  
-
-*Seeking embedded firmware or hardware design roles in defense, aerospace, or hardware-focused startups.*
-
-
-
-
+## Contact
+📧 andrew.truong.2019@protonmail.com
